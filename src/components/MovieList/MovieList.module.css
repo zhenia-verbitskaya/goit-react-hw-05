@@ -1,0 +1,27 @@
+.list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1260px;
+  gap: 20px;
+}
+.card {
+  width: 300px;
+  border: 2px solid #0a2351;
+}
+
+.cardDescr {
+  padding: 10px;
+}
+
+.cardTitle {
+  text-align: center;
+  color: #0a2351;
+  margin-bottom: 10px;
+}
+
+.cardRate {
+  text-align: center;
+  color: #0a2351;
+  font-size: 20px;
+}

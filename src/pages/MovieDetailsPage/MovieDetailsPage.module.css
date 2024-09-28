@@ -1,0 +1,79 @@
+.btnBlock {
+  padding: 30px 20px 10px;
+}
+
+.backBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: inherit;
+  font-size: 20px;
+  text-transform: uppercase;
+  width: 160px;
+  height: 45px;
+  background-color: #0a2351;
+  color: #6699cc;
+  border: none;
+}
+
+.card {
+  padding: 20px;
+  display: flex;
+  gap: 30px;
+  font-size: 20px;
+}
+
+.cardImg {
+  width: 300px;
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 12px;
+}
+
+.tag {
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #00bfff;
+  margin-bottom: 12px;
+}
+
+.overview {
+  border: 2px solid #0a2351;
+  padding: 12px;
+  margin-bottom: 12px;
+}
+
+.list {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+.listTitle {
+  font-weight: 700;
+}
+
+.release {
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.links {
+  display: flex;
+  gap: 12px;
+  padding: 10px 20px;
+  align-items: center;
+  font-size: 20px;
+  height: 50px;
+}
+
+.link {
+  text-transform: uppercase;
+  color: #0a2351;
+}
+
+.active {
+  color: #00bfff;
+}

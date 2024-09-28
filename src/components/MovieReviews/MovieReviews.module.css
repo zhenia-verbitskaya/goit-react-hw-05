@@ -1,0 +1,25 @@
+.list {
+  padding: 10px 20px;
+}
+
+.card {
+  border: 2px solid #0a2351;
+  padding: 12px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.text {
+  font-size: 18px;
+}
+
+.empty {
+  font-size: 20px;
+  font-weight: 700;
+  padding: 0 20px;
+}
